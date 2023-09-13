@@ -16,7 +16,7 @@
 
 #
 
-![Necropion' GitHub stats](https://github-readme-stats.vercel.app/api?username=Necropion&show_icons=true&theme=cobalt&count_private=true&include_all_commits)
+![Necropion' GitHub stats](https://github-readme-stats.vercel.app/api?username=Necropion&show_icons=true&theme=synthwave&count_private=true&include_all_commits)
 
 
 
