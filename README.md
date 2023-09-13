@@ -1,6 +1,6 @@
-# 👾 Necropion
+# 🚀 Necropion
 
-**`Programming/IT student`**
+**`Software Development Student`**
 
 <!--PLASS TIL ANDRE TING, EKS BESKRIVELSE-->
 
@@ -16,7 +16,7 @@
 
 #
 
-![Necropion' GitHub stats](https://github-readme-stats.vercel.app/api?username=Necropion&show_icons=true&theme=tokyonight&count_private=true&include_all_commits)
+![Necropion' GitHub stats](https://github-readme-stats.vercel.app/api?username=Necropion&show_icons=true&theme=dracula&count_private=true&include_all_commits)
 
 
 
