@@ -1,6 +1,9 @@
 # 🚀 Necropion
 
-**`Software Development Student`**
+**`Aspiring Software Developer`**
+
+🔨 I am currently working on a workout web application [FitBud](https://github.com/Necropion/FitBud)
+🐣 I am learning TypeScript
 
 <!--PLASS TIL ANDRE TING, EKS BESKRIVELSE-->
 
