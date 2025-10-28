@@ -18,7 +18,7 @@
   
 
 ### 🔨 - Current Project - [FitBud](https://github.com/Necropion/FitBud)  
-**Focus** 🐣 My focus with this project is to learn TypeScript and Python.  
+**🐣 Focus** My focus with this project is to learn TypeScript and Python.  
 **Goal** My goal with this project is to be able to publish a fully functional workout tracking application that i will personally be able to use onn my phone.  
 **Tech Stack** TypeScript, Python, PostgreSQL, Docker (planned): Kubernetes, ELK Stack, Self-host.   
 <!--PLASS TIL ANDRE TING, EKS BESKRIVELSE-->
