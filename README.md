@@ -2,12 +2,25 @@
 
 **`Aspiring Software Developer`**
 
-  Hello and welcome to my GitHub! I’m an IT graduate from Kristiania College (Class of 2025), majoring in Programming. I’m passionate about building scalable, full-stack solutions that connect systems and create meaningful user experiences. My goal is to develop software that feels seamless, efficient, and valuable for its users.  
+<details>
+  <summary><b>🇬🇧 English / 🇳🇴 Norsk</b></summary>
+
+  **🇬🇧 English:**  
+  Hello and welcome to my GitHub! I’m an IT graduate from Kristiania College (Class of 2025), majoring in Programming.  
+  I’m passionate about building scalable, full-stack solutions that connect systems and create meaningful user experiences.  
+  My goal is to develop software that feels seamless, efficient, and valuable for its users.  
+
+  **🇳🇴 Norsk:**  
+  Hei, og velkommen til GitHub-profilen min! Jeg er IT-utdannet fra Høyskolen Kristiania (klasse 2025) med fordypning i programmering.  
+  Jeg liker å utvikle skalerbare full-stack-løsninger som kobler sammen systemer og skaper gode brukeropplevelser.  
+  Målet mitt er å lage programvare som føles sømløs, effektiv og nyttig for brukeren.
+</details>
   
 
-🔨 I am currently working on a workout web application [FitBud](https://github.com/Necropion/FitBud)  
-🐣 I am learning TypeScript
-
+### 🔨 - Current Project - [FitBud](https://github.com/Necropion/FitBud)  
+**Focus** 🐣 My focus with this project is to learn TypeScript and Python.
+**Goal** My goal with this project is to be able to publish a fully functional workout tracking application that i will personally be able to use onn my phone.
+**Tech Stack** TypeScript, Python, PostgreSQL, Docker (planned): Kubernetes, ELK Stack, Self-host. 
 <!--PLASS TIL ANDRE TING, EKS BESKRIVELSE-->
 
 ---
