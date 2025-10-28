@@ -1,30 +1,23 @@
 # 🚀 Necropion
 
-**`Aspiring Software Developer`**
+**`Ambisiøs programvareutvikler`**
 
-<details>
-  <summary><b>🇬🇧 English / 🇳🇴 Norsk</b></summary>
+Hei, og velkommen til GitHub-profilen min!  
+Jeg er IT-utdannet fra **Høyskolen Kristiania (klasse 2025)** med fordypning i programmering.  
+Jeg brenner for å bygge **skalerbare full-stack-løsninger** som kobler sammen systemer og skaper gode og meningsfulle brukeropplevelser.  
+Målet mitt er å utvikle programvare som føles sømløs, effektiv og verdifull for brukeren.  
 
-  **🇬🇧 English:**  
-  Hello and welcome to my GitHub! I’m an IT graduate from Kristiania College (Class of 2025), majoring in Programming.  
-  I’m passionate about building scalable, full-stack solutions that connect systems and create meaningful user experiences.  
-  My goal is to develop software that feels seamless, efficient, and valuable for its users.  
-
-  **🇳🇴 Norsk:**  
-  Hei, og velkommen til GitHub-profilen min! Jeg er IT-utdannet fra Høyskolen Kristiania (klasse 2025) med fordypning i programmering.  
-  Jeg liker å utvikle skalerbare full-stack-løsninger som kobler sammen systemer og skaper gode brukeropplevelser.  
-  Målet mitt er å lage programvare som føles sømløs, effektiv og nyttig for brukeren.
-</details>
   
 
-### 🔨 - Current Project - [FitBud](https://github.com/Necropion/FitBud)  
-**🐣 Focus** My focus with this project is to learn TypeScript and Python.  
-**Goal** My goal with this project is to be able to publish a fully functional workout tracking application that i will personally be able to use onn my phone.  
-**Tech Stack** TypeScript, Python, PostgreSQL, Docker (planned): Kubernetes, ELK Stack, Self-host.   
+### 🔨 – Nåværende prosjekt – [FitBud](https://github.com/Necropion/FitBud)  
+**Fokus:** 🐣 Jeg bruker dette prosjektet til å lære **TypeScript** og **Python**.  
+**Mål:** Målet mitt er å publisere en fullt fungerende treningsapplikasjon som jeg personlig kan bruke på mobilen.  
+**Teknologistakk:** TypeScript, Python, PostgreSQL, Docker (planlagt: Kubernetes, ELK Stack, egen hosting).  
+
 <!--PLASS TIL ANDRE TING, EKS BESKRIVELSE-->
 
 ---
-### Languages and tools i have worked with:
+### 💻 Språk og verktøy jeg har jobbet med:
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
