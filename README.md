@@ -2,8 +2,22 @@
 
 **`Aspiring Software Developer`**
 
+<!-- Language Toggle -->
+<p align="right">
+  <a href="#english">🇬🇧 English</a> · <a href="#norsk">🇳🇴 Norsk</a>
+</p>
+
+<details id="english" open>
+  <summary><b>🇬🇧 English (click to toggle)</b></summary>  
+  Hello and welcome to my GitHub! I’m an IT graduate from Kristiania College (Class of 2025), majoring in Programming. I’m passionate about building scalable, full-stack solutions that connect systems and create meaningful user experiences. My goal is to develop software that feels seamless, efficient, and valuable for its users.  
+
 🔨 I am currently working on a workout web application [FitBud](https://github.com/Necropion/FitBud)  
 🐣 I am learning TypeScript
+</details>
+
+<details id="norsk">
+  <summary><b>🇳🇴 Norsk (klikk for å bytte)</b></summary>
+</details>
 
 <!--PLASS TIL ANDRE TING, EKS BESKRIVELSE-->
 
