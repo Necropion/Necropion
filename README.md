@@ -16,6 +16,11 @@ Målet mitt er å utvikle programvare som føles sømløs, effektiv og verdifull
 
 <!--PLASS TIL ANDRE TING, EKS BESKRIVELSE-->
 
+<p align="center"><a href="https://twitter.com/terabyte_17">
+  <a href="https://www.linkedin.com/in/jokubas-gedminas-8706b7308">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+</p>
+
 ---
 ### 💻 Språk og verktøy jeg har jobbet med:
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
