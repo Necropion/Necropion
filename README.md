@@ -1,6 +1,6 @@
 # 🚀 Necropion
 
-**`Utvikler`**
+**`Software Developer`**
 
 Hei, og velkommen til GitHub-profilen min!  
 Jeg er IT-utdannet fra **Høyskolen Kristiania (klasse 2025)** med fordypning i programmering.  
